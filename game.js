@@ -92,7 +92,7 @@ window.addEventListener("keyup", e=>{
 function spawnBlock(){
 
     // BLOCO DE CURA RARO
-    const healBlock = Math.random() < 0.07;
+    const healBlock = Math.random() < 0.04;
 
     if(healBlock){
 
